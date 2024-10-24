@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u8BFE\u4EF6\\cstudy\\hw\\202410101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u8BFE\u4EF6\\cstudy\\hw\\202410101\\1.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D338F95B-009C-49F3-A3BA-AEB54B385600}|202410101.vcxproj|F:\\\u8BFE\u4EF6\\cstudy\\hw\\202410101\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D338F95B-009C-49F3-A3BA-AEB54B385600}|202410101.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.cpp.cpp",
+              "DocumentMoniker": "F:\\\u8BFE\u4EF6\\cstudy\\hw\\202410101\\1.cpp.cpp",
+              "RelativeDocumentMoniker": "1.cpp.cpp",
+              "ToolTip": "F:\\\u8BFE\u4EF6\\cstudy\\hw\\202410101\\1.cpp.cpp",
+              "RelativeToolTip": "1.cpp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T02:53:28.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "F:\\\u8BFE\u4EF6\\cstudy\\hw\\202410101\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "F:\\\u8BFE\u4EF6\\cstudy\\hw\\202410101\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T02:37:22.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

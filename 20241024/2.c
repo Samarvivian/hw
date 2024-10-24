@@ -1,0 +1,69 @@
+//设计一个程序，判断输入的一个点是否在如图所示的六边形范围内，六边形边长为1cm
+
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    float x=0,y=0;
+    printf("请输入x,y坐标：");
+    scanf("%f %f",&x,&y);
+    if(x>=0)
+    {
+        if(x<=0.5)
+        {
+            if(y>=-1&&y<=1)
+            {
+                printf("在这个六边形内\n");
+            }
+            else
+            {
+                printf("不在这个六边形内\n");
+            }
+        }
+        if(x>0.5&&x<1)
+        {
+            if(y>=-(x-0.5)*sqrt(3)/2&&y<=(x-0.5)*sqrt(3)/2)
+            {
+                printf("在这个六边形内\n");
+            }
+            else
+            {
+                printf("不再这个六边形内\n");
+            }
+        }
+        else
+        {
+            printf("不再这个六边形内\n");
+        }
+    }
+    if(x<0)
+    {
+        if(x>=-0.5)
+        {
+            if(y>=-1&&y<=1)
+            {
+                printf("在这个六边形内\n");
+            }
+            else
+            {
+                printf("不在这个六边形内\n");
+            }
+        }
+        if(x>-1&&x<-0.5)
+        {
+            if(y<=-(x+0.5)*sqrt(3)/2&&y>=(x+0.5)*sqrt(3)/2)
+            {
+                printf("在这个六边形内\n");
+            }
+            else
+            {
+                printf("不再这个六边形内\n");
+            }
+        }
+        else
+        {
+            printf("不再这个六边形内\n");
+        }
+    }
+    return 0;
+}
